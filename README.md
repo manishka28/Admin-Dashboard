@@ -22,16 +22,10 @@ Check out the live demo of the **Admin Dashboard** [here](https://admindashboard
 
 Follow these steps to get the dashboard up and running:
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/manishka28/Admin-Dashboard.git`
 2. Install the required dependencies: 
    - `npm install` or `yarn install`
 3. Start the development server: 
    - `npm run dev` or `yarn dev`
 
 
-
-The **Admin Dashboard** is open-source and free to use. You are encouraged to clone, modify, and integrate it into your own projects.
-
-**Keywords:** React.js, Vite, Material UI, Admin Dashboard, Dark Mode, Light Mode, User Management, Team Management, Data Visualization, Charts, Formik, Yup, Open Source.
-
-**Enjoy building with the Admin Dashboard!**
