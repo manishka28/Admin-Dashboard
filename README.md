@@ -16,7 +16,7 @@ Welcome to the **Admin Dashboard**, a feature-packed, modern solution designed w
 
 ## Demo
 
-Check out the live demo of the **Admin Dashboard** [here]().
+Check out the live demo of the **Admin Dashboard** [here](https://admindashboard-manishka.netlify.app/).
 
 ## Get Started
 
@@ -28,19 +28,7 @@ Follow these steps to get the dashboard up and running:
 3. Start the development server: 
    - `npm run dev` or `yarn dev`
 
-## Screenshots
 
-### Dark Mode
-
-
-### Light Mode
-
-
-## Contribution and Feedback
-
-We welcome contributions and feedback from the community to make the Admin Dashboard even better. Feel free to submit pull requests or open issues for suggestions or bug reports.
-
-## Free to Use
 
 The **Admin Dashboard** is open-source and free to use. You are encouraged to clone, modify, and integrate it into your own projects.
 
