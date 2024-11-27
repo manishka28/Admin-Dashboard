@@ -68,7 +68,7 @@ const SideBar = () => {
                 <img
                   style={{ width: "30px", height: "30px", borderRadius: "8px" }}
                   src={logo}
-                  alt="Argon"
+                  alt="Admin"
                 />
                 <Typography
                   variant="h4"
@@ -76,7 +76,7 @@ const SideBar = () => {
                   textTransform="capitalize"
                   color={colors.greenAccent[500]}
                 >
-                  Argon
+                  Admin
                 </Typography>
               </Box>
             )}
@@ -110,7 +110,7 @@ const SideBar = () => {
               fontWeight="500"
               color={colors.greenAccent[500]}
             >
-              VP Fancy Admin
+              Admin
             </Typography>
           </Box>
         </Box>
@@ -193,6 +193,12 @@ const SideBar = () => {
           <Item
             title="Profile Form"
             path="/form"
+            colors={colors}
+            icon={<PersonOutlined />}
+          />
+          <Item
+            title="Role Management"
+            path="/role"
             colors={colors}
             icon={<PersonOutlined />}
           />

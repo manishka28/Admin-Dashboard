@@ -1,47 +1,49 @@
-# Argon Admin Dashboard: React.js, Vite, Material UI - Dark & Light Mode
+# Admin Dashboard: React.js, Vite, Material UI - Dark & Light Mode
 
-Welcome to Argon Admin Dashboard, a sleek and feature-rich solution built with React.js, Vite, and Material UI, offering both dark and light mode themes. Empower your project with 11 meticulously crafted pages, including data management, user interaction, and insightful chart displays.
+Welcome to the **Admin Dashboard**, a feature-packed, modern solution designed with React.js, Vite, and Material UI. It offers both **dark** and **light mode** themes, providing a seamless user experience. The dashboard includes 11 carefully designed pages, enabling efficient management of users, teams, invoices, data, and more.
 
-## Features
+## Key Features
 
-- **Dashboard Page:** An overview of key metrics and insights.
-- **Manage Team Page:** Efficiently handle team members with MUI DataGrid.
-- **Contacts Information:** Keep track of contacts effortlessly with a DataGrid.
-- **Invoices Balances Page:** Manage invoice balances conveniently using MUI DataGrid.
-- **Profile Form Page:** Create new user profiles seamlessly with Formik and Yup integration.
-- **Calendar Page:** Interactive calendar functionality powered by FullCalendar.
-- **FAQ Page:** Provide answers to common queries using MUI Accordion.
-- **Charts Pages:** Visualize data effectively with various chart types including Bar, Pie, Line, Geography, and Stream.
+- **Dashboard Overview:** A comprehensive view of essential metrics and data insights.
+- **User Management:** A page to view, add, edit, or delete users. Manage user roles and statuses (e.g., Active/Inactive).
+- **Team Management:** Efficiently handle team members with MUI DataGrid, ensuring smooth collaboration.
+- **Contacts Information:** Track and manage contacts effortlessly using a DataGrid.
+- **Invoices and Balances:** Conveniently manage and view invoice balances with MUI DataGrid.
+- **Profile Management:** Create and update user profiles seamlessly, integrated with Formik and Yup for validation.
+- **Interactive Calendar:** Manage events and schedules with a fully interactive calendar powered by FullCalendar.
+- **FAQ Section:** Address common queries and provide information using MUI Accordion.
+- **Charts and Data Visualization:** Visualize important data with various chart types such as Bar, Pie, Line, Geography, and Stream charts.
 
 ## Demo
 
-Explore the live demo of Argon Admin Dashboard [here](https://argon-admin-dashboard.web.app/).
+Check out the live demo of the **Admin Dashboard** [here]().
 
 ## Get Started
 
-1. Clone the repository: `git clone https://github.com/ayoubhayda/react-admin-dashboard.git`
-2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm run dev` or `yarn dev`
+Follow these steps to get the dashboard up and running:
+
+1. Clone the repository: ``
+2. Install the required dependencies: 
+   - `npm install` or `yarn install`
+3. Start the development server: 
+   - `npm run dev` or `yarn dev`
 
 ## Screenshots
 
 ### Dark Mode
 
-![Dark Mode](https://res.cloudinary.com/duxego3ja/image/upload/v1709215626/argon-admin-dashboard/b6jztniqlakkglakrp4e.png)
 
 ### Light Mode
 
-![Light Mode](https://res.cloudinary.com/duxego3ja/image/upload/v1709215626/argon-admin-dashboard/qf006k0kwkhrgmefengy.png)
 
+## Contribution and Feedback
 
-## Contributions and Feedback
-
-We welcome contributions and feedback from the community to enhance and improve Argon Admin Dashboard further. Feel free to submit pull requests or open issues for any suggestions or bug reports.
+We welcome contributions and feedback from the community to make the Admin Dashboard even better. Feel free to submit pull requests or open issues for suggestions or bug reports.
 
 ## Free to Use
 
-Argon Admin Dashboard is open-source and completely free to use. Download it, customize it, and streamline your operations with ease.
+The **Admin Dashboard** is open-source and free to use. You are encouraged to clone, modify, and integrate it into your own projects.
 
-**Keywords:** React.js, Vite, Material UI, Admin Dashboard, Dark Mode, Light Mode, Data Management, Team Management, Calendar, Charts, Formik, Yup, Open Source.
+**Keywords:** React.js, Vite, Material UI, Admin Dashboard, Dark Mode, Light Mode, User Management, Team Management, Data Visualization, Charts, Formik, Yup, Open Source.
 
-**Enjoy building awesome projects with Argon Admin Dashboard!**
+**Enjoy building with the Admin Dashboard!**
